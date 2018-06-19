@@ -1,5 +1,4 @@
 # hello-world
-first repository
 
 Come down from the mountains
 you have been gone too long
